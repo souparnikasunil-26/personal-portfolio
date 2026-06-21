@@ -17,9 +17,17 @@ This project is a Personal Portfolio Page created using HTML5. The portfolio sho
 
 * HTML5
 
-## Screenshot
+## Screenshots
 
-(Add your portfolio screenshot here)
+### Home Section
+![Home Section](home-section.png)
+
+### About Me and Skills
+![About Me and Skills](about-me.png)
+
+### Education and Contact Form
+![Education and Contact Form](education-contact.png)
+
 
 ## Author
 
