@@ -28,6 +28,8 @@ This project is a Personal Portfolio Page created using HTML5. The portfolio sho
 ### Education and Contact Form
 ![Education and Contact Form](education-contact.png)
 
+### Styled Portfolio Page
+![Styled Portfolio](added-style.png)
 
 ## Author
 
