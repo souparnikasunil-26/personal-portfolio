@@ -31,6 +31,12 @@ This project is a Personal Portfolio Page created using HTML5. The portfolio sho
 ### Styled Portfolio Page
 ![Styled Portfolio](added-style.png)
 
+### Desktop view 
+![Desktop view](desktop-view.png)
+
+### Mobile view 
+![Mobile view](mobile-view.png)
+
 ## Author
 
 Souparnika S S
