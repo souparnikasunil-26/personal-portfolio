@@ -122,9 +122,7 @@ nav {
 
 /* Grid Layout for Sections */
 main {
-    display: grid;
-    grid-template-columns: 1fr;
-    gap: 20px;
+    width: 100%;
 }
 
 /* Tablet View */
@@ -191,4 +189,12 @@ main {
     button {
         margin-bottom: 10px;
     }
+}
+section {
+    background-color: white;
+    margin: 20px auto;
+    padding: 20px;
+    width: 80%;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
